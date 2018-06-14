@@ -10,5 +10,5 @@ RSpec.describe "Products", type: :feature do
   end
 
   it 'loads next product without page refresh', js: true do
-   
+ end
 end
