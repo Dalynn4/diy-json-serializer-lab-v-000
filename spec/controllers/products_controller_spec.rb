@@ -37,5 +37,5 @@ RSpec.describe ProductsController, type: :controller do
 
   describe "GET data" do
     
-
+end
 end
